@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: backend
-        image: venkateshvgs/backend-abc:latest
+        image: smgowthaman/backend-abc:latest
         ports:
         - containerPort: 5000
         env:
